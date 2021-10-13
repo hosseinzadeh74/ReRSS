@@ -1,0 +1,11 @@
+Package: ReRSS
+Type: Package
+Title: Reliability based on Ranked Set Sampling and Simple Random Sampling designs
+Version: 0.1.0
+Author:    person("Khatereh", "Hosseinzadeh", email = "Hosseinzadeh.kh1374@gmail.com", role = c("aut", "cre")),
+Maintainer: Khatereh Hosseinzadeh <Hosseinzadeh.kh1374@gmail.com>
+Description: The Mean Residual and Mean Past Lifetimes based on the Ranked Set Sampling and Simple Random Sampling designs is estimated.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
