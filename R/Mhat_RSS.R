@@ -27,3 +27,4 @@ Mhat_RSS <- function(t, RSSdata, k, m) {
   out <- sapply(t, function(x) 1 / k * colSums((Shat_i(x, RSSdata) / Shat(x, c(RSSdata))) * MhatRSS_i(x, RSSdata, k, m)))
   return(out)
 }
+
